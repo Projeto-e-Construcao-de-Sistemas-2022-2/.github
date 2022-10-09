@@ -4,7 +4,7 @@ Esta é a organização para mantermos todos os projetos relativos a disciplina 
 
 # Grupos
 
-> *A confirmar
+> A confirmar*
 
 ## Guias rápidos
 
