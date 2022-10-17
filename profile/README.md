@@ -4,7 +4,11 @@ Esta é a organização para mantermos todos os projetos relativos a disciplina 
 
 # Grupos
 
-> A confirmar*
+**GRUPO 1 -** Eduardo, Eric, Matheus, Tauan, Vivian (Cliente: Bárbara/3X: Gestão de Projetos)
+
+**GRUPO 2 -** Frederico, Joao Gabriel, Joao Pedro, Jonathan, Priscilla (Cliente: Juliana/AlocaNOW)
+
+**GRUPO 3 -** Arlindo, Clara, Mariana, Renan, Yuri (Cliente: Luiz/ProblemTicket.IO)
 
 ## Guias rápidos
 
